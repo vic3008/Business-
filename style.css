@@ -1,0 +1,18 @@
+body{
+    background-color: black;
+    width: 40%;
+    color: white;
+    font-size: large;
+    padding: auto; 50px; 40px; 70px;
+
+}
+.container{
+background-color: brown;
+    width: 70%;
+    margin-top: 50px;
+    margin-right: 10px;
+    margin-left: 30px;
+    margin-bottom: 10px;
+    padding-left: 15px;
+    border-radius: 20px;
+}
